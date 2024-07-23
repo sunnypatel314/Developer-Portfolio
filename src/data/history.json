@@ -1,0 +1,34 @@
+[
+  {
+    "role": "Machine Learning Undergraduate Researcher",
+    "organization": "University of Alabama at Birmingham",
+    "startDate": "May 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Preprocessed and cleaned 430,000+ rows of CDC depression data using Pandas.",
+      "Built and optimized binary classifiers to predict individual depression levels with 92.4% accuracy.",
+      "Used Python to extract SHAP values, identifying most impactful features."
+    ]
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organization": "Nuubi",
+    "startDate": "January 2024",
+    "endDate": "May 2024",
+    "experiences": [
+      "Refactored 70% of codebase for optimization and enhanced maintainability.",
+      "Implemented several API endpoints for third-party API integration.",
+      "Developed React Native components for new user onboarding providing a more user-friendly initial experience."
+    ]
+  },
+  {
+    "role": "Freelance Software Engineer",
+    "organization": "Self",
+    "startDate": "January 2024",
+    "endDate": "July 2024",
+    "experiences": [
+      "Lead a small team to create a mobile application for a smoke shop which allowed customers to easily explore inventory, and the owner to manage inventory.",
+      "Used React Native for mobile app development, Firebase for database operations and authentication, and Python scripts for automated data entry."
+    ]
+  }
+]

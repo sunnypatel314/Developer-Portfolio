@@ -1,19 +1,23 @@
 [
   {
-    "title": "TypeScript",
-    "imageSrc": "skills/typescript.png"
+    "title": "JS/TS",
+    "imageSrc": "skills/javascript_typescript.png"
   },
   {
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Go",
+    "imageSrc": "skills/go.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "HTML/CSS",
+    "imageSrc": "skills/html_css.png"
   },
   {
     "title": "React",
@@ -42,9 +46,5 @@
   {
     "title": "AWS",
     "imageSrc": "skills/aws.png"
-  },
-  {
-    "title": "Git/GitHub",
-    "imageSrc": "skills/github.png"
   }
 ]

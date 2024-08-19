@@ -3,7 +3,7 @@
     "title": "Backend Engineer",
     "imageSrc": "about/backendIcon.png",
     "imageAlt": "Backend Icon",
-    "description": "I am proficient in creating REST API's in various languages/frameworks including JavaScript and Go and writing database queries for relational or non-relational databases. I am also able to containerize and deploy applications to a cloud environment such as AWS."
+    "description": "I am proficient in creating REST APIs in various languages/frameworks, including Go and Node.js, and writing database queries for relational or non-relational databases. I also have a strong foundation in backend system design, cloud services such as AWS, and testing & quality assurance."
   },
   {
     "title": "Machine Learning Engineer",
@@ -15,6 +15,6 @@
     "title": "Frontend Engineer",
     "imageSrc": "about/frontendIcon.png",
     "imageAlt": "Frontend Icon",
-    "description": "I am experienced in creating responsive frontend applications for the web and mobile devices using JavaScript/TypeScript, React.js, and React Native. I also have a solid foundation of HTML and CSS."
+    "description": "I am experienced in creating responsive frontend applications for the web and mobile devices using JavaScript/TypeScript, React.js, and React Native."
   }
 ]

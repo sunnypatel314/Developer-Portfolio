@@ -27,7 +27,7 @@
     "startDate": "January 2024",
     "endDate": "July 2024",
     "experiences": [
-      "Lead a small team to create a mobile application for a smoke shop which allowed customers to easily explore inventory, and the owner to manage inventory.",
+      "Led a team to build a product-browsing mobile app for a local smoke shop (authentication system included).",
       "Used React Native for mobile app development, Firebase for database operations and authentication, and Python scripts for automated data entry."
     ]
   }

@@ -3,9 +3,17 @@
     "title": "AI Image Social Media",
     "imageSrc": "projects/project1.png",
     "description": "A web app that allows users to create AI images and share them with the community (includes full registration/sign-in functionality).",
-    "skills": ["React", "Node/Express", "PostgreSQL", "AWS"],
+    "skills": ["React", "Go", "MongoDB", "AWS"],
     "link": "https://pixel-wizard-ai.netlify.app",
-    "source": "https://www.github.com"
+    "source": "https://github.com/sunnypatel314/Go-Backend-Pixel-Wizard"
+  },
+  {
+    "title": "Content Automation",
+    "imageSrc": "projects/project4.png",
+    "description": "Developed a program to automate video creation using content from the Reddit via API, and OpenAI Whisper for Speech-To-Text features.",
+    "skills": ["Python", "Reddit API", "Whisper AI", "CUDA"],
+    "link": "",
+    "source": "https://github.com/sunnypatel314/RedditPythonAutomation"
   },
   {
     "title": "Malaria Diagnosis",

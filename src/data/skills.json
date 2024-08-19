@@ -12,15 +12,15 @@
     "imageSrc": "skills/go.png"
   },
   {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
     "title": "Java",
     "imageSrc": "skills/java.png"
   },
   {
-    "title": "HTML/CSS",
-    "imageSrc": "skills/html_css.png"
-  },
-  {
-    "title": "React",
+    "title": "React.js",
     "imageSrc": "skills/react.png"
   },
   {
@@ -28,8 +28,8 @@
     "imageSrc": "skills/reactnative.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "HTML/CSS",
+    "imageSrc": "skills/html_css.png"
   },
   {
     "title": "TensorFlow",
